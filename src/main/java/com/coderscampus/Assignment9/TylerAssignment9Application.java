@@ -12,9 +12,7 @@ public class TylerAssignment9Application {
 
 	public static void main(String[] args) throws IOException {
 		SpringApplication.run(TylerAssignment9Application.class, args);
-//		
-//		FileService fs = new FileService();
-//		System.out.println(fs.getRecipes());
+
 	}
 
 }
